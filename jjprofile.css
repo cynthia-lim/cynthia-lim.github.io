@@ -1,0 +1,23 @@
+.top-container{
+	border: 0px;
+	border-color: none;
+	background-color: #FDEDEC;
+	margin: 0px;
+}
+
+.top-words{
+	margin: auto;
+	padding: 70px;
+	padding-left: 50px;
+	color: black;
+}
+
+.greeting{
+	font-size: 50px;
+}
+
+.btm-container{
+	border: 0px;
+	border-color: none;
+	margin: 0px;
+}
