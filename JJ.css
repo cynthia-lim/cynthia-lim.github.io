@@ -1,0 +1,21 @@
+@import
+url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
+
+.margin{
+    margin: 50px auto;
+}
+
+.my-parallax{
+    min-height: 80vh;
+    background-image: url('Lights.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    opacity: 0.5;
+   }
+   
+.card-text1{
+
+}
+   
