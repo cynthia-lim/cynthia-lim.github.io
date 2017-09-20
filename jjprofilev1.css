@@ -64,5 +64,9 @@
 
 .tags{
     font-size: 10px;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
+}
+
+.strike{
+    text-decoration: line-through;
 }
