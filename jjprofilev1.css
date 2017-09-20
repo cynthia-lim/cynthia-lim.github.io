@@ -6,8 +6,8 @@
 
 .top-words{
 	margin: auto;
-	padding: 70px;
-	padding-left: 50px;
+	padding: 50px;
+	padding-left: 20px;
 	color: black;
 }
 
@@ -60,4 +60,9 @@
 .Active{
     transition-property: border-color;
     border-color: rgb(253, 171, 168);
+}
+
+.tags{
+    font-size: 10px;
+    margin-bottom: 5px;
 }
