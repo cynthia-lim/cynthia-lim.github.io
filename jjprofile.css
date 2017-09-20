@@ -2,7 +2,7 @@
 	border: 0px;
 	border-color: none;
 	background-color: #FDEDEC;
-	margin: 0px;
+	max-height: 50%;
 }
 
 .top-words{
@@ -19,6 +19,16 @@
 .btm-container{
 	border: 0px none;
 	margin: auto;
-	background-size: 80px;
-    background-repeat: no-repeat;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.card-background{
+	background-color: white;
+	opacity: 0.5;
+	margin-top: -500px;
+	margin-left: 200px;
+	max-height: 400px;
+	padding: 10px;
+	color: black;
 }
